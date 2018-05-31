@@ -1,0 +1,13 @@
+{
+  "name": "fp-demo-chep-meetup",
+  "version": "1.0.0",
+  "description": "FP demo for CHEP Meetup",
+  "main": "index.js",
+  "author": "GB",
+  "license": "MIT",
+  "dependencies": {
+    "folktale": "^2.1.0",
+    "ramda": "^0.25.0",
+    "ramda-fantasy": "^0.8.0"
+  }
+}
